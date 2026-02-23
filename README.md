@@ -15,5 +15,6 @@ To analyze mobile retail sales performance across brands, cities, and salesperso
 - Sales trend showed overall growth with minor fluctuations.
 
 ## Dashboard Preview
-<img width="1878" height="877" alt="Screenshot 2026-02-23 212310" src="https://github.com/user-attachments/assets/a09f84f4-1dbf-4c87-a210-3d66eb761c0b" />
+<img width="1604" height="877" alt="Screenshot 2026-02-23 212310" src="https://github.com/user-attachments/assets/6151887a-b7f9-473b-9f45-28411ef3b345" />
+
 
